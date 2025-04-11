@@ -1,2 +1,2 @@
-# AI_Research_REIT811_49123467
+# Generative_AI_Research_49123467
 REIT6811
